@@ -1,0 +1,7 @@
+C:\Users\Kaneki Ken\Desktop\УП по программированию\PracticalWork1\bin\Debug\PracticalWork1.exe.config
+C:\Users\Kaneki Ken\Desktop\УП по программированию\PracticalWork1\bin\Debug\PracticalWork1.exe
+C:\Users\Kaneki Ken\Desktop\УП по программированию\PracticalWork1\bin\Debug\PracticalWork1.pdb
+C:\Users\Kaneki Ken\Desktop\УП по программированию\PracticalWork1\obj\Debug\PracticalWork1.csproj.AssemblyReference.cache
+C:\Users\Kaneki Ken\Desktop\УП по программированию\PracticalWork1\obj\Debug\PracticalWork1.csproj.CoreCompileInputs.cache
+C:\Users\Kaneki Ken\Desktop\УП по программированию\PracticalWork1\obj\Debug\PracticalWork1.exe
+C:\Users\Kaneki Ken\Desktop\УП по программированию\PracticalWork1\obj\Debug\PracticalWork1.pdb
